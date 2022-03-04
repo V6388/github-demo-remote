@@ -1,7 +1,7 @@
 #add implementation.
 #jst added
 def add(x,y):
-    pass
+    return x+y
 
 # subtract implementation
 def subtract(x,y):
