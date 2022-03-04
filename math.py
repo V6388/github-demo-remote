@@ -5,7 +5,7 @@ def add(x,y):
 
 # subtract implementation
 def subtract(x,y):
-    pass
+    return x-y   #from remote repositiory
     
 # multiply implementation
 def multiply(x,y):
